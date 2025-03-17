@@ -5,7 +5,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Breeding | Bioinformatics | Data Science
+    tagline: 
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -82,10 +82,7 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-        Highly motivated challenge-driven **Ph. D. candidate** in plant breeding thrilled to support the product design pipeline by **developing and optimizing innovative strategies**.
-        Technical skills for **high-throughput genomic data analysis** and **machine learning** for solving complex biological questions: **R, Python, SQL, AWS**.
-        **[Award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s).**
-        **Multilingual** and with diverse experience working in **dynamic, multidisciplinary teams** in different countries.
+
          
 education:
     title: Education
@@ -94,24 +91,18 @@ education:
         university: "Justus Liebig University (JLU)"
         time: "March 2022 – Present"
         details: |
-          - Topic: Defining the global recombination landscape in *Brassica napus* (See *Experience* for more info)
       - degree: "M. Sc. in Agrobiotechnology"
         university: "Justus Liebig University (JLU)"
         time: "Oct 2019 – Oct 2021"
         details: |
-          - Practical experience with R coding and NGS-based variant discovery ([See thesis manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
-          - Quantitative genetics-related topics: biostatistics, genomic prediction, genomic selection, GWAS, QTL mapping
-          - Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - degree: "M. D. in Secondary Education Teacher’s Training"
         university: "University of Extremadura (UEx)"
         time: "Oct 2017 – Jun 2018"
-        details:
+        details: |
       - degree: "B. Sc. in Biochemistry"
         university: "University of Sevilla (US)"
         time: "Sep 2013 – Jul 2017"
         details: |
-          - Regular participation in diverse lab practicals 
-          - Thesis: Biochemical and physiological effects of ozone on *Capsicum annuum* (greenhouse cultivation, spectrophotometry, ROS assays) ([See manuscript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)).
 
 experiences:
     title: Experience
@@ -120,37 +111,26 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
-          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
-          - Collaborated with a **[big multidisciplinary team](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Built **bioinformatics pipelines** in collaboration with the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
       - role: "Industry Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-          - Collaborated in molecular breeding lab work
-          - Development of KASP markers for resistance-related genes using BLAST
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
         details: |
-          - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
-          - Supervision of practical scientific lectures
-          - Evaluation of assignments and examinations
-          - **Regular communication with parents and colleagues**
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
-        details:
+        details: |
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
         company: "Hostelling Scotland (SYHA)"
-        details:
+        details: |
 
 publications:
     title: Communications
