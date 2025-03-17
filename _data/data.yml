@@ -1,0 +1,273 @@
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+     
+    # Profile information
+    name: Jose Montero
+    tagline: Breeding | Bioinformatics | Data Science
+    avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
+    
+    # Sidebar links
+    fullname: "Montero Tena, José Antonio"
+    citizenship: Spanish
+    timezone: Europe/Berlin
+    email: jmonterotena@gmail.com
+    linkedin: joseantoniomonterotena
+    github: jamonterotena
+    phone: +34 603 769 969
+    certificates: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
+    
+    languages:
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: +++++
+        - idiom: English
+          level: +++++
+        - idiom: German
+          level: ++++
+        - idiom: Italian
+          level: ++
+    skills_sidebar:
+      title: Skills
+      info:
+        - idiom: AlphaSimR
+          level: +++++
+        - idiom: Amazon S3
+          level: +
+        - idiom: Bash
+          level: +++++
+        - idiom: ChatGPT for Productivity
+          level: +++
+        - idiom: Fast Typing
+          level: +++++
+        - idiom: Genomic imputation
+          level: ++++
+        - idiom: Genomic simulation
+          level: ++++
+        - idiom: Git
+          level: +++++
+        - idiom: High Performance Computing
+          level: +++++
+        - idiom: Linux Terminal
+          level: ++++
+        - idiom: ML with tidymodels
+          level: +++++
+        - idiom: Multi-omics analysis
+          level: +++
+        - idiom: MarkDown/Quarto
+          level: +++++
+        - idiom: Next Generation Sequencing
+          level: +++++
+        - idiom: Python
+          level: +++
+        - idiom: R
+          level: +++++
+        - idiom: SLURM
+          level: +++++
+        - idiom: SQL
+          level: +++
+        - idiom: Version Control
+          level: +++
+        - idiom: XGBoost
+          level: +
+    interests:
+      title: Interests
+      info:
+        - item: Classical Guitar
+        - item: Mountain Bike
+        - item: Languages
+         
+career-profile:
+    title: ABOUT ME
+    summary: |
+        Highly motivated challenge-driven **Ph. D. candidate** in plant breeding thrilled to support the product design pipeline by **developing and optimizing innovative strategies**.
+        Technical skills for **high-throughput genomic data analysis** and **machine learning** for solving complex biological questions: **R, Python, SQL, AWS**.
+        **[Award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s).**
+        **Multilingual** and with diverse experience working in **dynamic, multidisciplinary teams** in different countries.
+         
+education:
+    title: Education
+    info:
+      - degree: "Ph. D. in Agrobioinformatics"
+        university: "Justus Liebig University (JLU)"
+        time: "March 2022 – Present"
+        details: |
+          - Topic: Defining the global recombination landscape in *Brassica napus* (See *Experience* for more info)
+      - degree: "M. Sc. in Agrobiotechnology"
+        university: "Justus Liebig University (JLU)"
+        time: "Oct 2019 – Oct 2021"
+        details: |
+          - Practical experience with R coding and NGS-based variant discovery ([See thesis manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
+          - Quantitative genetics-related topics: biostatistics, genomic prediction, genomic selection, GWAS, QTL mapping
+          - Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      - degree: "M. D. in Secondary Education Teacher’s Training"
+        university: "University of Extremadura (UEx)"
+        time: "Oct 2017 – Jun 2018"
+        details:
+      - degree: "B. Sc. in Biochemistry"
+        university: "University of Sevilla (US)"
+        time: "Sep 2013 – Jul 2017"
+        details: |
+          - Regular participation in diverse lab practicals 
+          - Thesis: Biochemical and physiological effects of ozone on *Capsicum annuum* (greenhouse cultivation, spectrophotometry, ROS assays) ([See manuscript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)).
+
+experiences:
+    title: Experience
+    info:
+      - role: "Scientific Researcher (Ph. D. candidate)"
+        time: "March 2022 – Feb 2025"
+        company: "Justus Liebig University (JLU)"
+        details: |
+          - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
+          - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
+          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+          - Collaborated with a **[big multidisciplinary team](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
+      - role: "Graduate Student Assistant"
+        time: "Dec 2021 - Feb 2022"
+        company: "Justus Liebig University (JLU)"
+        details: |
+          - Built **bioinformatics pipelines** in collaboration with the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
+      - role: "Industry Intern"
+        time: "March 2021 – April 2021"
+        company: "Deutsche Saatveredelung (DSV)"
+        details: |
+          - Collaborated in molecular breeding lab work
+          - Development of KASP markers for resistance-related genes using BLAST
+      - role: "Science Classroom Teacher"
+        time: "Sep 2018 – Jul 2019"
+        company: "Holmer Green Senior School (HGSS)"
+        details: |
+          - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
+          - Supervision of practical scientific lectures
+          - Evaluation of assignments and examinations
+          - **Regular communication with parents and colleagues**
+      - role: "Undergraduate Student Assistant"
+        company: "University of Extremadura"
+        time: "June 2014 - June 2014"
+        details:
+      - role: "Volunteer Assistant"
+        time: "Aug 2016 - Sep 2016"
+        company: "Hostelling Scotland (SYHA)"
+        details:
+
+publications:
+    title: Communications
+    papers:
+      - title: "CpG methylation, gene count and telomeric proximity are the main predictors of meiotic crossovers in rapeseed (SUBMITTED)"
+        authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
+        conference: "The Plant Journal (accepted)"
+      - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite
+      genotyping errors"
+        authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
+        conference: "G3 (Bethesda) (2024)"
+        link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607 #"[https://doi.org/10.1093/g3journal/jkae109](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)"
+#      - title: "Poster: Defining the Genome-wide Recombination Landscape of Brassica napus"
+#        authors: "Montero-Tena JA"
+#        conference: "GCB German Conference of Bioinformatics, Bielefeld, Germany (30 Sep – 2 Oct 2024)"
+      - title: "Oral presentation (watch video): haploMAGIC: Phasing and detecting recombination in multiparental populations (awarded prize to best oral presentation)"
+        authors: "Montero-Tena JA"
+        conference: "IRC International Rapeseed Congress, Sydney, Australia (24 – 27 Sep 2023)"
+        link: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s #"[Oral Presentation: haploMAGIC: Phasing and Detecting Recombination in Multiparental Populations (Awarded Prize to Best Oral Presentation)](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)"
+      - title: "Poster: Generating genome-wide recombination maps using SNP genotyping"
+        authors: "Montero-Tena JA"
+        journal: "GPZ German Plant Breeding Conference, Düsseldorf, Germany"
+        date: "12 – 14 Sep 2022"
+        link: https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop #"[Generating Genome-Wide Recombination Maps Using SNP Genotyping](https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop)"
+
+certifications:
+      title: Certifications
+      list:
+        - name: "Workshop: Standardizing and harmonizing NGS analysis workflows"
+          start: "Sep 2024"
+          end:
+          organization: "German Conference of Bioinformatics, Bielefeld, Germany"
+          credentialid:
+          credentialurl: www.gcb2024.de/
+          credentialname: link
+          details: |
+        - name: "Workshop: Machine Learning with tidymodels"
+          start: "Aug 2024"
+          end:
+          organization: "Posit Conference, Seattle, USA"
+          credentialid:
+          credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024-ugcPost-7229004878839255042-B4LL?utm_source=share&utm_medium=member_desktop
+          credentialname: link
+          details: |
+        - name: "DataCamp courses (x18) on Python, R, and Shell, covering coding fundamentals, data manipulation, statistics, and machine learning"
+          start: 2022
+          end:
+          organization: "datacamp"
+          credentialid:
+          credentialurl: www.datacamp.com/portfolio/jamonterotena?view=true
+          credentialname: link
+          details: |
+        - name: "Plant tissue culture and genetic transformation"
+          start: "April 2020"
+          end: 
+          organization: "JLU, Giessen, Germany"
+          credentialid:
+          credentialurl: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
+          credentialname: link
+          details: |
+        - name: "Bioinformatics for beginners"
+          start: "Sep 2021"
+          end:
+          organization: "Coursera, UC San Diego"
+          credentialid:
+          credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-biology-meets-activity-6841831236089065472-7bwX?utm_source=share&utm_medium=member_desktop
+          credentialname: link
+          details: |
+        - name: "Whole genome sequencing of bacterial genomes"
+          start: "Sep 2021"
+          end:
+          organization: "Coursera, TU Denmark"
+          credentialid:
+          credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing-activity-6848685870837575682-CJvV?utm_source=share&utm_medium=member_desktop
+          credentialname: link
+          details: |
+
+skills:
+    title: "Skills & Proficiency"
+    toolset:
+      - name: "R"
+        level: 100%     
+      - name: "Bash"
+        level: 100%
+      - name: "Linux Terminal"
+        level: 100%
+      - name: "Next Generation Sequencing Analysis"
+        level: 100%
+      - name: "Fast Typing"
+        level: 100%
+      - name: "MarkDown/Quarto"
+        level: 80%
+      - name: "Machine Learning with Tidymodels"
+        level: 80%
+      - name: "Python"
+        level: 70%
+      - name: "git"
+        level: 70%
+      - name: "High Performance Computing (HPC)"
+        level: 70%
+      - name: "SLURM"
+        level: 50%
+      - name: "Version control"
+        level: 50%
+      - name: "SQL"
+        level: 50% 
+      - name: "Amazon Web Services (AWS) S3"
+        level: 50% 
+      - name: "ChatGPT (Premium Member) for Productivity"
+        level: 30%
+
+recommendations:
+  title: Recommendations
+  list:
+  - person: Prof. Dr. Agnieszka A Golicz
+    email: Agnieszka.Golicz@agrar.uni-giessen.de 
+    phone: +496419937432
+    role: Professor for Agrobioinformatics at Justus Liebig University
+    recommendation: |
+      *"Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
