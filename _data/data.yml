@@ -5,7 +5,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: 
+    tagline: Postdoc Researcher at Radboud University
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -75,12 +75,12 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Reading
         - item: Classical Guitar
-        - item: Mountain Bike
-        - item: Languages
+        - item: Language
          
 career-profile:
-    title: ABOUT ME
+    title: |
     summary: |
 
          
@@ -107,10 +107,14 @@ education:
 experiences:
     title: Experience
     info:
-      - role: "Scientific Researcher (Ph. D. candidate)"
+      - role: "Postdoc Researcher"
+        time: "March 2026 – Now"
+        company: "Radboud University Nijmegen"
+        details: "GenomeDesigner project: Plant breeding by design. Predicting recombination in tomato crosses for optimized breeding"
+      - role: "PhD Researcher"
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
-        details: |
+        details: "Defining the genome-wide recombination landscape in **Brassica napus**"
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
@@ -122,7 +126,7 @@ experiences:
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
-        details: |
+        details: "Physics, Chemistry and Biology lessons, both theoretical and practical, to students year 7-9 (UK school system)"
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
@@ -135,9 +139,9 @@ experiences:
 publications:
     title: Communications
     papers:
-      - title: "CpG methylation, gene count and telomeric proximity are the main predictors of meiotic crossovers in rapeseed (SUBMITTED)"
+      - title: "Machine learning and multi-omic analysis reveal contrasting recombination landscape of A and C subgenomes of winter oilseed rape."
         authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
-        conference: "The Plant Journal (accepted)"
+        conference: "The plant genome"
       - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite
       genotyping errors"
         authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
@@ -211,9 +215,15 @@ certifications:
 skills:
     title: "Skills & Proficiency"
     toolset:
-      - name: "R"
+      - name: "Meiotic recombination"
+        level: 100%
+      - name: "Classical Machine Learning"
+        level: 100%
+      - name: "Data Analysis"
+        level: 100%
+      - name: "R Programming"
         level: 100%     
-      - name: "Bash"
+      - name: "Bash coding"
         level: 100%
       - name: "Linux Terminal"
         level: 100%
@@ -223,8 +233,8 @@ skills:
         level: 100%
       - name: "MarkDown/Quarto"
         level: 80%
-      - name: "Machine Learning with Tidymodels"
-        level: 80%
+      - name: "ShinyApps"
+        level: 80%        
       - name: "Python"
         level: 70%
       - name: "git"
@@ -236,11 +246,9 @@ skills:
       - name: "Version control"
         level: 50%
       - name: "SQL"
-        level: 50% 
+        level: 20% 
       - name: "Amazon Web Services (AWS) S3"
-        level: 50% 
-      - name: "ChatGPT (Premium Member) for Productivity"
-        level: 30%
+        level: 20%
 
 recommendations:
   title: Recommendations
